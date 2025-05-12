@@ -1,0 +1,24 @@
+czym jest bias i wariancja
+modele z wysoka wariancja biasem
+
+wariancja = jak bardzo predykcje modelu z zmieniaja sie od danych wejsciowych
+bias = czyli jak bardzo model jest dopasowany
+
+niski bias , dobrze dopasowanie do danych treningowych
+ale wysoka wariancja ,
+dla danych treningowych dobra skutecznosc
+a dla danych testowych model bedzie slaby
+
+
+co to under i overfitting
+
+
+regularyzacja L1 i L2
+l1 = wybiera istotne wspolczynniki i zmienia na 0 nieistotne , jest dominacja kilku cech
+l2 = wyplaszcza wpsolczynniki , nie ma dominacji cech
+
+
+
+
+PCA redukcja wymiarowosci
+
